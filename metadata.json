@@ -1,0 +1,5 @@
+{
+  "name": "ShopSphere",
+  "description": "A basic e--commerce site built with React and Tailwind CSS, featuring product listings, a shopping cart, and product detail pages.",
+  "requestFramePermissions": []
+}
