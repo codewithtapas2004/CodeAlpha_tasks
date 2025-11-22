@@ -1,0 +1,5 @@
+{
+  "name": "ProjectFlow - Management Tool",
+  "description": "A collaborative project management tool inspired by Trello and Asana. Users can create project boards, manage tasks in columns, and comment on tasks. This version simulates the frontend experience with mock data and includes an AI-powered feature to generate task descriptions.",
+  "requestFramePermissions": []
+}
