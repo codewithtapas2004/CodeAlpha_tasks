@@ -6,6 +6,11 @@ This repository showcases my work during the CodeAlpha Internship, where I devel
 ## Live Demo & Screenshots
 > If you have deployed versions or screenshots, add them here for quick recruiter reference.
 
+Project Management Demo--->
+<img width="1916" height="850" alt="{8A5A6332-EA04-4548-A53F-AC6FF00FB4E1}" src="https://github.com/user-attachments/assets/fda34842-cb26-4187-84b7-dd3c8040fe6e" />
+
+E-commerce Store--->
+<img width="1915" height="867" alt="{C6343B01-E0A5-4E6D-B57F-E3410895565D}" src="https://github.com/user-attachments/assets/955bddc6-b8f8-4dc7-bb83-6896d0540063" />
 
 This repository contains two full-stack React applications developed as part of the CodeAlpha Internship:
 
@@ -54,8 +59,6 @@ A Kanban-style project management tool for organizing tasks across boards and co
 
 ### Features
 - Create, edit, and delete tasks
-- Organize tasks into columns (To Do, In Progress, Done)
-- Drag-and-drop task movement
 - Modal dialogs for task details
 - Responsive UI
 
@@ -121,9 +124,7 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
 
 ---
 
